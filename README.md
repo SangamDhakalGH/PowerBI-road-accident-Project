@@ -1,6 +1,7 @@
 # PowerBI-road-accident-Project
 
 Road Accident Analysis Dashboard
+
 This repository contains the Power BI project for the Road Accident Analysis Dashboard, which provides insights into road accident trends, casualty statistics, and other key metrics to help stakeholders understand and address road safety challenges.
 
 Features
